@@ -2,4 +2,4 @@ This is dummy file
 This is the target Line to test conflict.
 
 
-Developer changes made
+Developer A changes made
